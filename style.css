@@ -1,0 +1,15 @@
+body {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 0 20px;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+h1 {
+    margin-bottom: 5px;
+}
+
+a {
+    color: #0066cc;
+}
